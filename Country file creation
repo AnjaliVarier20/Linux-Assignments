@@ -1,0 +1,15 @@
+vim country.txt
+press I to start editing (insert mode)
+Start typing
+  India
+  Pakistan
+  Bangladesh
+  Sri Lanka
+  UAE
+  USA
+  Qatar
+  Iran
+  Russia
+  China
+
+Press Esc key and type :wq to save teh changes and exit.
