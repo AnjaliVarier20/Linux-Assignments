@@ -1,0 +1,4 @@
+cd /development/website
+
+cp index.txt images/
+cp test/country.txt images/
