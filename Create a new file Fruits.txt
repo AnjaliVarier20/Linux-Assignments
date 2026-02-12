@@ -1,0 +1,20 @@
+to move from development/website to development type:
+
+cd ..
+
+vim fruits.txt
+press i for insert mode
+Type the content:
+
+  Apple is a sweet and crunchy fruit rich in fiber and vitamins.
+  Banana is a soft, energy-giving fruit high in potassium.
+  Mango is a juicy tropical fruit known as the “king of fruits.”
+  Orange is a citrus fruit rich in vitamin C and antioxidants.
+  Grapes grow in bunches and can be eaten fresh or dried as raisins.
+  Pineapple has a sweet and tangy taste and supports digestion.
+  Watermelon is a refreshing summer fruit with high water content.
+  Papaya is a soft fruit that helps improve digestion.
+  Strawberry is a bright red fruit rich in antioxidants and flavor.
+  Pomegranate contains juicy red seeds packed with nutrients.
+
+press Esc and type :wq to save the file and exit
