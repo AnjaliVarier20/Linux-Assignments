@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo Enter 2 numbers
+read a b
+
+add=$((a+b))
+echo Addition of $a and $b is $add
+
+sub=$((a-b))
+echo subtraction of @a and @b is $sub
+
+mult=$((a*b))
+echo Multiplication of @a and @b is $mult
+
+div=$((a/b))
+echo Division of @a and @b is $div
