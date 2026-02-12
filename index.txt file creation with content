@@ -1,0 +1,25 @@
+cd development/website
+
+cat <<EOF > index.txt
+
+Anjali Vijayaraghavan Varier
+Phone: +91-9370466888
+Email: itsmeav20@gmail.com
+Location: Pune, Maharashtra
+Career Objective:
+  Motivated and enthusiastic graduate seeking an entry-level position to apply my skills and grow professionally.
+  Strong willingness to learn and contribute effectively to organizational success.
+
+Education:
+  Master’s Degree in Marine Biotechnology – GoaUniversity – 2015.
+  Bacheloer's Degree in Biotechnology - Modern College Of Arts Science & Commerce - 2013 
+  Higher Secondary (12th) – School Name – Year.
+
+Technical Skills:
+  MS Office (Word, Excel, PowerPoint).
+  Internet research and email communication skills.
+
+Strengths:
+  Quick learner, positive attitude, teamwork, time management.
+  Good communication and interpersonal skills.
+EOF
