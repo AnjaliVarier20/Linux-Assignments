@@ -1,0 +1,9 @@
+mkdir /development
+cd development
+mkdir website
+cd website
+mkdir images test
+
+OR
+
+mkdir -p /development/website/{images,test}
