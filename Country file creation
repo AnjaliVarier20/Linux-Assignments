@@ -1,3 +1,4 @@
+cd /development/website/test
 vim country.txt
 press I to start editing (insert mode)
 Start typing
