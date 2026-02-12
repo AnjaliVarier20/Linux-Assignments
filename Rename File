@@ -1,0 +1,2 @@
+mv index.txt sample.txt
+ls (to check the list of files)
