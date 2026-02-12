@@ -1,0 +1,14 @@
+cd development/website/test # change directory
+
+cat <<EOF > test/country.txt
+India
+United States
+Canada
+Australia
+Germany
+France
+Japan
+Brazil
+South Africa
+Italy
+EOF
